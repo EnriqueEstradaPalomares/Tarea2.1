@@ -1,0 +1,10 @@
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Archivos de Texto y Binarios\Archivos de Texto y Binarios\bin\Debug\Archivos de Texto y Binarios.exe.config
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Archivos de Texto y Binarios\Archivos de Texto y Binarios\bin\Debug\Archivos de Texto y Binarios.exe
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Archivos de Texto y Binarios\Archivos de Texto y Binarios\bin\Debug\Archivos de Texto y Binarios.pdb
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Archivos de Texto y Binarios\Archivos de Texto y Binarios\obj\Debug\Archivos_de_Texto_y_Binarios.Form1.resources
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Archivos de Texto y Binarios\Archivos de Texto y Binarios\obj\Debug\Archivos_de_Texto_y_Binarios.Properties.Resources.resources
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Archivos de Texto y Binarios\Archivos de Texto y Binarios\obj\Debug\Archivos de Texto y Binarios.csproj.GenerateResource.Cache
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Archivos de Texto y Binarios\Archivos de Texto y Binarios\obj\Debug\Archivos de Texto y Binarios.csproj.CoreCompileInputs.cache
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Archivos de Texto y Binarios\Archivos de Texto y Binarios\obj\Debug\Archivos de Texto y Binarios.exe
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Archivos de Texto y Binarios\Archivos de Texto y Binarios\obj\Debug\Archivos de Texto y Binarios.pdb
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Archivos de Texto y Binarios\Archivos de Texto y Binarios\obj\Debug\Archivos de Texto y Binarios.csprojResolveAssemblyReference.cache
